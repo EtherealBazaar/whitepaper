@@ -33,12 +33,12 @@ Ethereal Bazaar is building a network of merchants to allow for a trustless exch
     If a Buyer fails to recieve a product as it was advertised in the listing
     They can claim a refund with proof 
     
- ## Escrow Service
+## Escrow Service
   * Funds are held in Escrow During shipping 1% fee is charged for this service
 
   * Escrow Protects the buyer and seller from fraud by verfying the product has been shipped and recieved.      
     
- ## Policies       
+## Policies       
     Ethereal Bazaar has a zero tolerance policy for fraud.
     Merchants or buyers found guilty of fraud are permanently banned.
     Sellers are responsible for the legality of the products they list.
